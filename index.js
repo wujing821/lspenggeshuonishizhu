@@ -5,3 +5,4 @@ function(id){
 function(){
 	this.dddd = document.getElementById(id);
 }
+function(){}
