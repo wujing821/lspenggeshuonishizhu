@@ -2,7 +2,12 @@ function(id){
 	this.box = document.getElementById(id);
 	this.ddd = document.getElementsByTagName('input');
 }
+function(){}
 function(){
-	this.dddd = document.getElementById(id);
+
+}
+var Drag = function(options){
+	this.ele = options.dragEle;
+
 }
 function(){}
