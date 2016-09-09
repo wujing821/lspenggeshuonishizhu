@@ -3,3 +3,4 @@ function(id){
 	this.ddd = document.getElementsByTagName('input');
 }
 function(){}
+function(){}
