@@ -8,4 +8,5 @@ function(){
 }
 var Drag = function(options){
 	this.ele = options.dragEle;
+
 }
